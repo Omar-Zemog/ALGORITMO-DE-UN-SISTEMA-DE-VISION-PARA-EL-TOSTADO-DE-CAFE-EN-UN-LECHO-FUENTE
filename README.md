@@ -2,3 +2,5 @@
 Algoritmo realizado en el software LabVIEW  como parte de mi trabajo de tesis para obtener el grado de maestro
 
 Para obtener más información sobre la construcción del algoritmo y su utilidad anexo una liga a mi tesis https://drive.google.com/file/d/1Nu_UJLP52Fv-eAjNDmdayM3MZ01rZDr3/view?usp=sharing
+
+Debe considerarse que es necesaria la posesión de un módulo c-DAQ con tarjeta de relevadores electromecanicos para el funcionamiento del algoritmo
